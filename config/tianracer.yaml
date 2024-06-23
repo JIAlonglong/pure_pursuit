@@ -1,0 +1,9 @@
+# Parameters for the tianracer P3-DX robot
+
+lookahead_distance: 0.1
+max_linear_velocity: 1.0
+max_rotational_velocity: 1.0
+position_tolerance: 0.1
+map_frame_id: map
+robot_frame_id: tianracer/base_footprint
+lookahead_frame_id: tianracer/lookahead
